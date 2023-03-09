@@ -22,7 +22,7 @@
 
     <groupId>org.apache.skywalking</groupId>
     <artifactId>apm</artifactId>
-    <version>9.4.1-SNAPSHOT</version>
+    <version>1.1.1</version>
 
     <parent>
         <groupId>org.apache</groupId>
@@ -44,7 +44,7 @@
         <url>https://github.com/apache/skywalking</url>
         <connection>scm:git:https://github.com/apache/skywalking.git</connection>
         <developerConnection>scm:git:https://github.com/apache/skywalking.git</developerConnection>
-        <tag>apm-9.4.0</tag>
+        <tag>apm-1.1.1</tag>
     </scm>
 
     <issueManagement>
